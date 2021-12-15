@@ -6,7 +6,7 @@ My name is Cat and I am a developer for GoodGames. We create games that ignite i
 
 ## ![Social](/icons/icons8-social-network-30.png) How to reach me
 [![LinkedIn](/icons/linkedin.svg)](https://www.linkedin.com/in/catdelgado9/)
-[![Email](/icons/icons8-gmail.svg)](cat@goodfocus.net)
+[![Email](/icons/icons8-gmail.svg)](mailto:cat@goodfocus.net)
 
 <!--- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... --->
